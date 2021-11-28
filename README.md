@@ -18,7 +18,7 @@ Michael Farm<br>
 120 years of Olympic history: athletes and results<br>
 https://www.kaggle.com/chadalee/olympics-data-cleaning-exploration-prediction/data
 
-## Table of Contents
+## Submission
 [How certain aspects of Olympics have changed over the years and affected medal counts](olympics.pptx)
 * Data used and cleaning
 * Medals won by age group
@@ -27,4 +27,3 @@ https://www.kaggle.com/chadalee/olympics-data-cleaning-exploration-prediction/da
 * Medals won by countries
 * Number of events by year
 * US medals vs the other regions
-
